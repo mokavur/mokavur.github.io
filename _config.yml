@@ -1,7 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
- 
+
+  
 title: Mokas Site # the website title (if blank, full name will be used instead)
 first_name: Moka
 middle_name: 
